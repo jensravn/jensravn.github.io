@@ -1,8 +1,0 @@
-name,ring,quadrant,isNew,description
-Test,Trial,Techniques,FALSE,
-Google Cloud Architect,Assess,Platforms,FALSE,
-Test,Hold,Tools,TRUE,
-TypeScript,Adopt,languages-and-frameworks,FALSE,
-Reactjs,Adopt,languages-and-frameworks,FALSE,
-Scala,Trial,languages-and-frameworks,FALSE,
-Go,Assess,languages-and-frameworks,FALSE,
